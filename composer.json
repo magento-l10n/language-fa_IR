@@ -1,5 +1,6 @@
 {
     "name": "community-engineering/language-fa_ir",
+    "version": "0.0.1",
     "type": "magento2-language",
     "description": "fa_IR language package.",
     "license": [
@@ -14,7 +15,7 @@
     },
     "autoload": {
         "files": [
-          "registration.php"
+            "registration.php"
         ]
     }
 }
