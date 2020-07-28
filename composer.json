@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-fa_ir",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "magento2-language",
     "description": "fa_IR language package.",
     "license": [
