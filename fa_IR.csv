@@ -360,6 +360,7 @@ Error,خطا
 "Number of Records Affected","تعداد رکوردهای تحت تأثیر قرار گرفته"
 "We can't find the role for the user you wanted.","ما نمیتوانیم نقش کاربر مورد نظر خود را پیدا کنیم."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","هنگام کامپایل لیستی از منابع مجاز اشتباهی رخ داد. برای مشاهده جزئیات بیشتر به لیست استثنائات مراجعه کنید."
+"The role wasn't found for the user. Verify the role and try again.","نقش کاربر یافت نشد. نقش را تأیید کنید و دوباره امتحان کنید."
 "You created the order.","شما سفارش دادید."
 "Order saving error: %1","ارور ذخیره کردن سفارش:%1"
 "Please choose a payment method.","لطفا یک روش پرداخت انتخاب کنید."
