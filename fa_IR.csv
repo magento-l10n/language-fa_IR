@@ -1,6 +1,7 @@
 All,همه
 None,"هیچ یک"
 "Allowed Scopes","محدوده های مجاز"
+"More permissions are needed to delete the ""%1"" item.","برای حذف %1 آیتم، به سطح دسترسی بالاتری نیاز دارید."
 "You need more permissions to apply some of the rule updates.","برای اعمال تغییرات بر روی برخی از قوانین، نیاز به دسترسی بالاتری دارید."
 "You need more permissions to access website ""%1"".","برای دسترسی به وبسایت نیاز به مجوزهای بیشتر دارید: %1."
 "Role Scopes","محدوده‌های نقش"
