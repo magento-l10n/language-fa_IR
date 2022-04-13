@@ -392,6 +392,8 @@ Environment,محیط
 options,"گزینه ها"
 "Select all","انتخاب همه"
 "Deselect all","لغو انتخاب همه موارد"
+" to "," به "
+Next,بعدی
 Show,نمایش
 "per page","در هر صفحه"
 "%s of %s selected","%s از %s انتخاب شد"
@@ -628,7 +630,6 @@ Magento,مجنتو
 "About the calendar","درباره‌ی تقویم"
 "Go Today","برو به امروز"
 Previous,قبلی
-Next,بعدی
 WK,هفته
 Time,زمان
 Hour,ساعت
